@@ -1,0 +1,12 @@
+{
+  "name": "rqpay-proto",
+  "displayName": "rqpay-proto",
+  "expo": {
+    "name": "rqpay-proto",
+    "slug": "rqpay-proto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
